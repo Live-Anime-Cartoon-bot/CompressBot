@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/player",
+      "destination": "/player.html"
+    },
+    {
+      "source": "/api/stream/proxy",
+      "destination": "/api/stream/proxy.js"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
