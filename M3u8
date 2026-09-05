@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="CARTOON NETWORK HD+" group-title="FW",CARTOON NETWORK HD+
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiMTE3MDkiLCJwIjoiNGYzMWMyNDIxNWY0ZmRlOCIsImUiOjE3ODg3MDIzMDAzMDUsInMiOjIwNzAxLCJoIjoiYzQ3ZDg1MzE4Y2JjNjkxZmYzMDIifQ
+
+#EXTINF:-1 tvg-id="2" tvg-name="CARTOON NETWORK HINDI" group-title="FW",CARTOON NETWORK HINDI
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiMTE2MzMiLCJwIjoiNGYzMWMyNDIxNWY0ZmRlOCIsImUiOjE3ODg3MDIzMDAzMDUsInMiOjIwNzAxLCJoIjoiYzIwMTgwMWEwMjYyNjY2YzQ5MmEifQ
+
+#EXTINF:-1 tvg-id="3" tvg-name="DISNEY JUNIOR HINDI" group-title="FW",DISNEY JUNIOR HINDI
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiMTE2NDAiLCJwIjoiNGYzMWMyNDIxNWY0ZmRlOCIsImUiOjE3ODg3MDIzMDAzMDUsInMiOjIwNzAxLCJoIjoiMDJlNTA3NmI3ZmM3YzgxYzM2ZWEifQ
+
+#EXTINF:-1 tvg-id="4" tvg-name="POGO HINDI" group-title="FW",POGO HINDI
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiMTE2NjYiLCJwIjoiNGYzMWMyNDIxNWY0ZmRlOCIsImUiOjE3ODg3MDIzMDAzMDUsInMiOjIwNzAxLCJoIjoiODFiODg0NjQwMTFiMmY3M2E1YTgifQ
+
+#EXTINF:-1 tvg-id="5" tvg-name="SONY YAY USA" group-title="FW",SONY YAY USA
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiMjgwMiIsInAiOiI0ZjMxYzI0MjE1ZjRmZGU4IiwiZSI6MTc4ODcwMjMwMDMwNSwicyI6MjA3MDEsImgiOiIyZGExYzY1YWRmYjYyY2E1NzI4YiJ9
+
+#EXTINF:-1 tvg-id="13" tvg-name="SUPER HUNGAMA" group-title="FW",SUPER HUNGAMA
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNzcwMzIiLCJwIjoiNGYzMWMyNDIxNWY0ZmRlOCIsImUiOjE3ODg3MDIzMDAzMDUsInMiOjIwNzAxLCJoIjoiYzIwMmFlY2IwYmIxMTlkMzBmNDAifQ
+
+#EXTINF:-1 tvg-id="7" tvg-name="HUNGAMA TV" group-title="FW",HUNGAMA TV
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiMTE2NDYiLCJwIjoiNGYzMWMyNDIxNWY0ZmRlOCIsImUiOjE3ODg3MDIzMDAzMDUsInMiOjIwNzAxLCJoIjoiODVjYmNjMWViNDQyMDg4NjM4NjMifQ
