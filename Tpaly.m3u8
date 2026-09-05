@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Pogo 01" group-title="TPLAY",Pogo 01
+http://66.102.126.10:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-name="Pogo 02" group-title="TPLAY",Pogo 02
+http://202.70.146.135:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel 01" group-title="TPLAY",Disney Channel 01
+http://103.155.18.191:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel HD 01" group-title="TPLAY",Disney Channel HD 01
+http://66.102.126.10:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney International HD 01" group-title="TPLAY",Disney International HD 01
+http://66.102.126.10:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Junior 01" group-title="TPLAY",Disney Junior 01
+http://66.102.126.10:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-name="Hungama 01" group-title="TPLAY",Hungama 01
+http://66.102.126.10:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-name="Sonic 01" group-title="TPLAY",Sonic 01
+http://66.102.126.10:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick 01" group-title="TPLAY",Nick 01
+http://66.102.126.10:8000/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick HD+ 01" group-title="TPLAY",Nick HD+ 01
+http://66.102.126.10:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick Jr. 01" group-title="TPLAY",Nick Jr. 01
+http://66.102.126.10:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney 02" group-title="TPLAY",Disney 02
+http://45.171.64.30:8800/play/a06l
+
+#EXTINF:-1 tvg-name="Disney JR 02" group-title="TPLAY",Disney JR 02
+http://45.171.64.30:8800/play/a03v
+
+#EXTINF:-1 tvg-name="Sonic 02" group-title="TPLAY",Sonic 02
+http://202.70.146.135:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney 03" group-title="TPLAY",Disney 03
+http://45.171.64.30:8800/play/a06l
+
+#EXTINF:-1 tvg-name="Disney JR 02" group-title="TPLAY",Disney JR 02
+http://45.171.64.30:8800/play/a03v
+
+#EXTINF:-1 tvg-name="Disney Channel 02" group-title="TPLAY",Disney Channel 02
+http://190.151.80.242:9990/play/a0jg/index.m3u8
