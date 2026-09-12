@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="CARTOON NETWORK HD+" group-title="FW",CARTOON NETWORK HD+
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiMTE3MDkiLCJwIjoiNGYzMWMyNDIxNWY0ZmRlOCIsImUiOjE3ODg3MDIzMDAzMDUsInMiOjIwNzAxLCJoIjoiYzQ3ZDg1MzE4Y2JjNjkxZmYzMDIifQ
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM3IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5MTUwOTY1MDQ0LCJzIjoyMDcwNiwiaCI6ImUyMGI5MWRkOTY1ZTU3Mjg4NWMwIn0
 
 #EXTINF:-1 tvg-id="2" tvg-name="CARTOON NETWORK HINDI" group-title="FW",CARTOON NETWORK HINDI
 https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiMTE2MzMiLCJwIjoiNGYzMWMyNDIxNWY0ZmRlOCIsImUiOjE3ODg3MDIzMDAzMDUsInMiOjIwNzAxLCJoIjoiYzIwMTgwMWEwMjYyNjY2YzQ5MmEifQ
