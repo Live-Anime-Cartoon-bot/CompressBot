@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Pogo.1" group-title="Pogo",Pogo.1
+http://202.70.146.135:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1 tvg-name="Pogo.2" group-title="Pogo",Pogo.2
+http://66.102.126.10:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-name="Pogo.3" group-title="Pogo",Pogo.3
+http://103.155.18.191:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel.1" group-title="Disney Channel",Disney Channel.1
+http://103.155.18.191:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel.2" group-title="Disney Channel",Disney Channel.2
+http://66.102.126.10:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel.3" group-title="Disney Channel",Disney Channel.3
+http://190.151.80.242:9990/play/a0jg/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel.4" group-title="Disney Channel",Disney Channel.4
+http://202.70.146.135:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel.5" group-title="Disney Channel",Disney Channel.5
+http://45.171.64.30:8800/play/a06l
+
+#EXTINF:-1 tvg-name="Disney International HD.1" group-title="Disney International HD",Disney International HD.1
+http://66.102.126.10:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney International HD.2" group-title="Disney International HD",Disney International HD.2
+http://202.70.146.135:8000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney International HD.3" group-title="Disney International HD",Disney International HD.3
+http://103.155.18.191:8000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Junior.1" group-title="Disney Junior",Disney Junior.1
+http://66.102.126.10:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Junior.2" group-title="Disney Junior",Disney Junior.2
+http://45.171.64.30:8800/play/a03v
+
+#EXTINF:-1 tvg-name="Hungama.1" group-title="Hungama",Hungama.1
+http://66.102.126.10:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-name="Sonic.1" group-title="Sonic",Sonic.1
+http://66.102.126.10:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-name="Sonic.2" group-title="Sonic",Sonic.2
+http://202.70.146.135:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-name="Sonic.3" group-title="Sonic",Sonic.3
+http://103.155.18.191:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick.1" group-title="Nick",Nick.1
+http://66.102.126.10:8000/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick.2" group-title="Nick",Nick.2
+http://66.102.126.10:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick.3" group-title="Nick",Nick.3
+http://202.70.146.135:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick.4" group-title="Nick",Nick.4
+http://103.155.18.191:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-name="NickJr.1" group-title="Nick Jr.",NickJr.1
+http://66.102.126.10:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-name="NickJr.2" group-title="Nick Jr.",NickJr.2
+http://202.70.146.135:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-name="NickJr.3" group-title="Nick Jr.",NickJr.3
+http://103.155.18.191:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Kids.1" group-title="Discovery Kids",Discovery Kids.1
+http://202.70.146.135:8000/play/a0a6/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Kids.2" group-title="Discovery Kids",Discovery Kids.2
+http://103.155.18.191:8000/play/a0a6/index.m3u8
