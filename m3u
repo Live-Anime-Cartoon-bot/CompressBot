@@ -1,5 +1,7 @@
 #EXTM3U
 
+═════════════════════Sun Direct══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
 #EXTINF:-1 tvg-name="Pogo.4" group-title="Pogo",Pogo.4
 https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM3IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ0NzIxNTY5LCJzIjoyMDcxNCwiaCI6IjgwNTUyNTgxMDQyNGU3YTkyZDZkIn0|User-Agent=VLC/3.0.20(Android/15)
 
@@ -33,6 +35,9 @@ https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d
 #EXTINF:-1 tvg-name="Pogo.1080p" group-title="Sun direct",Pogo.1080p
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281410|User-Agent=VLC/3.0.20(Android/15)
 
+══════════════════════Airtel═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+═════════════════════TataPlay══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 #EXTINF:-1 tvg-name="Pogo.1" group-title="Pogo",Pogo.1
 http://202.70.146.135:8000/play/a0a7/index.m3u8
 
