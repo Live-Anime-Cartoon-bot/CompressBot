@@ -2,6 +2,21 @@
 
 ══════════════════════════════════════Channel 1 ══════════════════════════════════════
 
+#EXTINF:-1 tvg-name="Animax" group-title="Channel 1",Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Green Gold TV" group-title="Channel 1",Green Gold TV
+https://greengold.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tata Play Anime Local" group-title="Channel 1",Tata Play Anime Local
+http://datahub11.com:8080/live/1Aoen7elp5/IgMJ60tmAa/467679.ts
+
+#EXTINF:-1 tvg-name="ETV Bal Bharat" group-title="Channel 1",ETV Bal Bharat
+http://datahub11.com:8080/live/1Aoen7elp5/IgMJ60tmAa/355286.ts
+
+#EXTINF:-1 tvg-name="Disney Channel HD" group-title="Channel 1",Disney Channel HD
+http://datahub11.com:8080/live/9480808/9480808/19741.ts
+
 ═════════════════════Sun Direct══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 #EXTINF:-1 tvg-name="Pogo.4" group-title="Pogo",Pogo.4
@@ -145,3 +160,6 @@ http://202.70.146.135:8000/play/a0a6/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Kids.2" group-title="Discovery Kids",Discovery Kids.2
 http://103.155.18.191:8000/play/a0a6/index.m3u8
+
+#EXTINF:-1 tvg-name="NICK.1080p" group-title="Sun direct",NICK.1080p
+http://103.185.24.134:3001/NICK/index.m3u8
