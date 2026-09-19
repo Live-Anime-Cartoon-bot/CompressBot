@@ -169,3 +169,48 @@ http://103.155.18.191:8000/play/a0a6/index.m3u8
 
 #EXTINF:-1 tvg-name="NICK.1080p" group-title="Sun direct",NICK.1080p
 http://103.185.24.134:3001/NICK/index.m3u8
+
+═══════════════════Tata Play══════════════════════════════════════
+
+#EXTGRP:Tplay
+#EXTINF:-1 tvg-name="Cartoon Network HD+ TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Cartoon Network HD+ TPLAY
+http://103.174.195.62:8000/play/a0db
+
+#EXTINF:-1 tvg-name="Discovery Kids TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Discovery Kids TPLAY
+http://103.174.195.62:8000/play/a0do
+
+#EXTINF:-1 tvg-name="Disney Channel TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Disney Channel TPLAY
+http://103.174.195.62:8000/play/a06q
+
+#EXTINF:-1 tvg-name="Disney Channel HD TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Disney Channel HD TPLAY
+http://103.174.195.62:8000/play/a0cf
+
+#EXTINF:-1 tvg-name="Disney International HD TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Disney International HD TPLAY
+http://103.174.195.62:8000/play/a0d4
+
+#EXTINF:-1 tvg-name="Disney Junior TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Disney Junior TPLAY
+http://103.174.195.62:8000/play/a0eq
+
+#EXTINF:-1 tvg-name="Hungama TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Hungama TPLAY
+http://103.174.195.62:8000/play/a0dj
+
+#EXTINF:-1 tvg-name="Nick TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Nick TPLAY
+http://103.174.195.62:8000/play/a044
+
+#EXTINF:-1 tvg-name="Nick HD+ TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Nick HD+ TPLAY
+http://103.174.195.62:8000/play/a0ch
+
+#EXTINF:-1 tvg-name="Nick Jr. TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Nick Jr. TPLAY
+http://103.174.195.62:8000/play/a02d
+
+#EXTINF:-1 tvg-name="Pogo TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Pogo TPLAY
+http://103.174.195.62:8000/play/a0dp
+
+#EXTINF:-1 tvg-name="SONY YAY! TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",SONY YAY! TPLAY
+http://103.174.195.62:8000/play/a0ei
+
+#EXTINF:-1 tvg-name="Sonic Nickelodeon TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Sonic Nickelodeon TPLAY
+http://103.174.195.62:8000/play/a02g
+
+#EXTINF:-1 tvg-name="Super Hungama TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Super Hungama TPLAY
+http://103.174.195.62:8000/play/a0g3
