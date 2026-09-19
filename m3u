@@ -2,6 +2,15 @@
 
 ══════════════════════════════════════Channel 1 ══════════════════════════════════════
 
+#EXTINF:-1 tvg-name="Wow Kidz" group-title="Channel 1",Wow Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-name="MINIX" group-title="Channel 1",MINIX
+https://vodzong.mjunoon.tv:8087/streamtest/157-1M/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Epic Kids" group-title="Channel 1",Epic Kids
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Animax" group-title="Channel 1",Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
@@ -20,9 +29,6 @@ http://datahub11.com:8080/live/9480808/9480808/19741.ts
 ═════════════════════Sun Direct══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 #EXTINF:-1 tvg-name="Pogo.4" group-title="Pogo",Pogo.4
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM3IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ0NzIxNTY5LCJzIjoyMDcxNCwiaCI6IjgwNTUyNTgxMDQyNGU3YTkyZDZkIn0|User-Agent=VLC/3.0.20(Android/15)
-
-#EXTINF:-1 tvg-name="Pogo.5" group-title="Pogo",Pogo.5
 https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM3IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ0NzIxNTY5LCJzIjoyMDcxNCwiaCI6IjgwNTUyNTgxMDQyNGU3YTkyZDZkIn0|User-Agent=VLC/3.0.20(Android/15)
 
 #EXTINF:-1 tvg-name="Discovery Kids" group-title="Discovery Kids",Discovery Kids
