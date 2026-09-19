@@ -1,5 +1,7 @@
 #EXTM3U
 
+══════════════════════════════════════Channel 1 ══════════════════════════════════════
+
 ═════════════════════Sun Direct══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 #EXTINF:-1 tvg-name="Pogo.4" group-title="Pogo",Pogo.4
@@ -20,7 +22,7 @@ https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d
 #EXTINF:-1 tvg-name="Nick" group-title="Nick",Nick
 https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM2IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ1MTE4NTEwLCJzIjoyMDcxNCwiaCI6Ijg4ZjdiN2JjZDI2YjA4NTFmZjQ2In0|User-Agent=VLC/3.0.20(Android/15)
 
-#EXTINF:-1 tvg-name="Nick Jr" group-title="Nick Jr",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" group-title="Sun direct",Nick Jr
 https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc2Nzg2IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ1MTE4NTEwLCJzIjoyMDcxNCwiaCI6IjViNDllMGE5MGI1OGQwM2NhMjg2In0|User-Agent=VLC/3.0.20(Android/15)
 
 #EXTINF:-1 tvg-id="71811" tvg-name="SONIC | IN" tvg-logo="71811.png" group-title="Sonic",SONIC
@@ -105,7 +107,7 @@ http://66.102.126.10:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-name="Disney Junior.2" group-title="Disney Junior",Disney Junior.2
 http://45.171.64.30:8800/play/a03v
 
-#EXTINF:-1 tvg-name="Hungama.1" group-title="Hungama",Hungama.1
+#EXTINF:-1 tvg-name="Hungama.1" group-title="Channel 1",Hungama
 http://66.102.126.10:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-name="Sonic.1" group-title="Sonic",Sonic.1
