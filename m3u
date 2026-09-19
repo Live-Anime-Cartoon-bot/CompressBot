@@ -28,32 +28,22 @@ http://datahub11.com:8080/live/9480808/9480808/19741.ts
 
 ═════════════════════Sun Direct══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Hungama.1080p" group-title="Sun direct",Hungama.1080p
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM1IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5OTM5MDg2NDY0LCJzIjoyMDcxNSwiaCI6IjY2ZTZjYjMwNmI4MzdlZDQ0ZjJmIn0|User-Agent=VLC/3.0.20(Android/15)
+
 #EXTINF:-1 tvg-name="Pogo.4" group-title="Pogo",Pogo.4
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM3IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ0NzIxNTY5LCJzIjoyMDcxNCwiaCI6IjgwNTUyNTgxMDQyNGU3YTkyZDZkIn0|User-Agent=VLC/3.0.20(Android/15)
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM3IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5OTM5MDg2NDY0LCJzIjoyMDcxNSwiaCI6IjQ0ZDc3NmU2M2Q4Yzc0ZDZkZGFmIn0|User-Agent=VLC/3.0.20(Android/15)
 
-#EXTINF:-1 tvg-name="Discovery Kids" group-title="Discovery Kids",Discovery Kids
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTMyIiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ1MTE4NTEwLCJzIjoyMDcxNCwiaCI6IjJhYjI3ZDhiNDk3NGE0NGMyODE5In0|User-Agent=VLC/3.0.20(Android/15)
+#EXTINF:-1 tvg-name="Nick Jr.1080p" group-title="Sun direct",Nick Jr.1080p
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc2Nzg2IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5OTM5MDg2NDY0LCJzIjoyMDcxNSwiaCI6ImMyY2YwNTYwOGQ0MzVjNTI1MWU4In0|User-Agent=VLC/3.0.20(Android/15)
 
-#EXTINF:-1 tvg-name="Disney Junior" group-title="Disney Junior",Disney Junior
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTMzIiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ1MTE4NTEwLCJzIjoyMDcxNCwiaCI6ImNlMzE2YjMwM2VjNTgwODVhYmY0In0|User-Agent=VLC/3.0.20(Android/15)
-
-#EXTINF:-1 tvg-name="Disney TV" group-title="Disney Channel",Disney TV
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM0IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ1MTE4NTEwLCJzIjoyMDcxNCwiaCI6IjkyNzYyNzc3OTMwY2I2MmRlMWRiIn0|User-Agent=VLC/3.0.20(Android/15)
-
-#EXTINF:-1 tvg-name="Nick" group-title="Nick",Nick
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM2IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ1MTE4NTEwLCJzIjoyMDcxNCwiaCI6Ijg4ZjdiN2JjZDI2YjA4NTFmZjQ2In0|User-Agent=VLC/3.0.20(Android/15)
-
-#EXTINF:-1 tvg-name="Nick Jr" group-title="Sun direct",Nick Jr
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc2Nzg2IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ1MTE4NTEwLCJzIjoyMDcxNCwiaCI6IjViNDllMGE5MGI1OGQwM2NhMjg2In0|User-Agent=VLC/3.0.20(Android/15)
+#EXTINF:-1 tvg-name="Super Hungama.1080p" group-title="Sun direct",Super Hungama.1080p
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDgyNjE2IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5OTM5MDg2NDY0LCJzIjoyMDcxNSwiaCI6ImE5MzFmMTBjYjlmMWMzNDcyZWM1In0|User-Agent=VLC/3.0.20(Android/15)
 
 #EXTINF:-1 tvg-id="71811" tvg-name="SONIC | IN" tvg-logo="71811.png" group-title="Sonic",SONIC
 https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM4IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ1NDczMzU0LCJzIjoyMDcxNCwiaCI6ImUyZTRkOTA1NzA3YTM5Mzk3MGM5In0|User-Agent=VLC/3.0.20(Android/15)
-
-#EXTINF:-1 tvg-id="71808" tvg-name="Hungama.1080p" tvg-logo="71808.png" group-title="Sun direct",Hungama.1080p
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM1IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQzNzQwMDA2LCJzIjoyMDcxNCwiaCI6IjhlMTczOGYyOGRiN2RkMGZjNjQ1In0|User-Agent=VLC/3.0.20(Android/15)
-
-#EXTINF:-1 tvg-id="78795" tvg-name="Super Hungama.1080p" tvg-logo="78795.png" group-title="Sun direct",Super Hungama.1080p
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDgyNjE2IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQzNzQwMDA2LCJzIjoyMDcxNCwiaCI6ImNhZWQ4NjRhNjk4MjNkZmMzZjgzIn0|User-Agent=VLC/3.0.20(Android/15)
 
 #EXTINF:-1 tvg-name="Pogo.1080p" group-title="Sun direct",Pogo.1080p
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281410|User-Agent=VLC/3.0.20(Android/15)
