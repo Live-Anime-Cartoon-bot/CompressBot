@@ -49,34 +49,29 @@ https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281410|User-Agent=VLC/3.0.20(Android/15)
 
 ══════════════════════Airtel═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
-
-#EXTINF:-1 tvg-name="SONY YAY HD" group-title="Airtel",SONY YAY HD
-https://ranapkx.site/RANAPK33t/TVD/play.php?id=373067
-
-#EXTINF:-1 tvg-name="POGO KIDS" group-title="Airtel",POGO KIDS
-https://ranapkx.site/RANAPK33t/TVD/play.php?id=372993
-
-#EXTINF:-1 tvg-name="DISNEY SD" group-title="Airtel",DISNEY SD
-https://ranapkx.site/RANAPK33t/TVD/play.php?id=372986
-
-#EXTINF:-1 tvg-name="DISNEY INTERNATIONAL HD" group-title="Airtel",DISNEY INTERNATIONAL HD
-https://ranapkx.site/RANAPK33t/TVD/play.php?id=372979
-
-#EXTINF:-1 tvg-name="CN PLUS HD" group-title="Airtel",CN PLUS HD
-https://ranapkx.site/RANAPK33t/TVD/play.php?id=372977
-
-#EXTINF:-1 tvg-name="DISNEY XD" group-title="Airtel",DISNEY XD
-https://ranapkx.site/RANAPK33t/TVD/play.php?id=372974
-
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Airtel",CARTOON NETWORK
-https://ranapkx.site/RANAPK33t/TVD/play.php?id=372972
-
-#EXTINF:-1 tvg-name="DISCOVERY KIDS" group-title="Airtel",DISCOVERY KIDS
-https://ranapkx.site/RANAPK33t/TVD/play.php?id=372928
-
-#EXTINF:-1 tvg-name="DISNEY JUNIOR" group-title="Airtel",DISNEY JUNIOR
-https://ranapkx.site/RANAPK33t/TVD/play.php?id=1433165
-
+#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="SONY YAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY YAY.png" group-title="Airtel",SONY YAY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=373067&extension=m3u8&play_token=VhrkpVR8A1#EXTINF:-1 tvg-id="pogo.in" tvg-name="POGO" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Pogo_2004.png" group-title="Airtel",POGO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=372993&extension=m3u8&play_token=oA7qJE2HlV
+#EXTINF:-1 tvg-id="" tvg-name="DISNEYSD" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/DISNEY SD.png" group-title="Airtel",DISNEY SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=372986&extension=m3u8&play_token=GlT5V9U1Gs
+#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="NICK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/nichplus.png" group-title="Airtel",NICK PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=372983&extension=m3u8&play_token=ED5Ke37X96
+#EXTINF:-1 tvg-id="disneyinternationalhd.in" tvg-name="DISNEY INTERNATIONAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/disneyinternational.png" group-title="Airtel",DISNEY INTERNATIONAL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=372979&extension=m3u8&play_token=b1G4eQPDNU
+#EXTINF:-1 tvg-id="" tvg-name="CN PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/CN PLUS HD.png" group-title="Airtel",20883 -CN PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=372977&extension=m3u8&play_token=YyWcAmJO3g
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/DisneyXD.png" group-title="Airtel",DISNEY XD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=372974&extension=m3u8&play_token=cLwSbTnaQs
+#EXTINF:-1 tvg-id="cartoonnetwork.in" tvg-name="CARTOON NETWORK" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CNHD.png" group-title="Airtel",CARTOON NETWORK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=372972&extension=m3u8&play_token=E22SVMKCt2
+#EXTINF:-1 tvg-id="discoverykids.in" tvg-name="DISCOVERY KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/2016_Discovery_Kids_logo.svg.png" group-title="Airtel",DISCOVERY KIDS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=372928&extension=m3u8&play_token=fDIrqHWbva
+#EXTINF:-1 tvg-id="disneyjunior.in" tvg-name="DISNEY JUNIOR" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DISNEY JUNIOR.png" group-title="Airtel",DISNEY JUNIOR
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=1433165&extension=m3u8&play_token=1hNXsCgm4f
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/HUNGAMA KIDS.png" group-title="Airtel",HUNGAMA KIDS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=1433211&extension=m3u8&play_token=od3i7HPGWq
+#EXTINF:-1 tvg-id="" tvg-name="NICK PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NICK PLUS.png" group-title="Airtel",NICK PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=1433214&extension=m3u8&play_token=6H3RRWmY98
 ═════════════════════TataPlay══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 #EXTINF:-1 tvg-name="Pogo.1" group-title="Pogo",Pogo.1
