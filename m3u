@@ -72,6 +72,8 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=1433165&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=1433211&extension=m3u8&play_token=od3i7HPGWq
 #EXTINF:-1 tvg-id="" tvg-name="NICK PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NICK PLUS.png" group-title="Airtel",NICK PLUS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=1433214&extension=m3u8&play_token=6H3RRWmY98
+#EXTINF:-1 tvg-id="pogo.in" tvg-name="POGO" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Pogo_2004.png" group-title="Airtel",POGO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:29:A3&stream=372993&extension=m3u8&play_token=oA7qJE2HlV
 ═════════════════════TataPlay══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 #EXTINF:-1 tvg-name="Pogo.1" group-title="Pogo",Pogo.1
