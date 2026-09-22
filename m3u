@@ -28,23 +28,6 @@ http://datahub11.com:8080/live/9480808/9480808/19741.ts
 
 ═════════════════════Sun Direct══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
-#EXTM3U
-
-#EXTINF:-1 tvg-name="Hungama.1080p" group-title="Sun direct",Hungama.1080p
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM1IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5OTM5MDg2NDY0LCJzIjoyMDcxNSwiaCI6IjY2ZTZjYjMwNmI4MzdlZDQ0ZjJmIn0|User-Agent=VLC/3.0.20(Android/15)
-
-#EXTINF:-1 tvg-name="Pogo.4" group-title="Pogo",Pogo.4
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM3IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5OTM5MDg2NDY0LCJzIjoyMDcxNSwiaCI6IjQ0ZDc3NmU2M2Q4Yzc0ZDZkZGFmIn0|User-Agent=VLC/3.0.20(Android/15)
-
-#EXTINF:-1 tvg-name="Nick Jr.1080p" group-title="Sun direct",Nick Jr.1080p
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc2Nzg2IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5OTM5MDg2NDY0LCJzIjoyMDcxNSwiaCI6ImMyY2YwNTYwOGQ0MzVjNTI1MWU4In0|User-Agent=VLC/3.0.20(Android/15)
-
-#EXTINF:-1 tvg-name="Super Hungama.1080p" group-title="Sun direct",Super Hungama.1080p
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDgyNjE2IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5OTM5MDg2NDY0LCJzIjoyMDcxNSwiaCI6ImE5MzFmMTBjYjlmMWMzNDcyZWM1In0|User-Agent=VLC/3.0.20(Android/15)
-
-#EXTINF:-1 tvg-id="71811" tvg-name="SONIC | IN" tvg-logo="71811.png" group-title="Sonic",SONIC
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM4IiwicCI6IjFkNDRhYTdiMGUzNDIxYmIiLCJlIjoxNzg5ODQ1NDczMzU0LCJzIjoyMDcxNCwiaCI6ImUyZTRkOTA1NzA3YTM5Mzk3MGM5In0|User-Agent=VLC/3.0.20(Android/15)
-
 #EXTINF:-1 tvg-name="Pogo.1080p" group-title="Sun direct",Pogo.1080p
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281410|User-Agent=VLC/3.0.20(Android/15)
 
@@ -201,3 +184,33 @@ http://103.174.195.62:8000/play/a02g
 
 #EXTINF:-1 tvg-name="Super Hungama TPLAY" tvg-logo="PUBLIC_LOGO_URL" group-title="Tplay" group-image="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-New-Logo.png",Super Hungama TPLAY
 http://103.174.195.62:8000/play/a0g3
+
+══════════════════════Airtel═══════════
+#EXTM3U
+
+#EXTINF:-1 tvg-name="SONY YAY HD" group-title="Airtel",SONY YAY HD
+https://ranapkx.site/RANAPK33t/TVD/play.php?id=373067
+
+#EXTINF:-1 tvg-name="POGO KIDS" group-title="Airtel",POGO KIDS
+https://ranapkx.site/RANAPK33t/TVD/play.php?id=372993
+
+#EXTINF:-1 tvg-name="DISNEY SD" group-title="Airtel",DISNEY SD
+https://ranapkx.site/RANAPK33t/TVD/play.php?id=372986
+
+#EXTINF:-1 tvg-name="DISNEY INTERNATIONAL HD" group-title="Airtel",DISNEY INTERNATIONAL HD
+https://ranapkx.site/RANAPK33t/TVD/play.php?id=372979
+
+#EXTINF:-1 tvg-name="CN PLUS HD" group-title="Airtel",CN PLUS HD
+https://ranapkx.site/RANAPK33t/TVD/play.php?id=372977
+
+#EXTINF:-1 tvg-name="DISNEY XD" group-title="Airtel",DISNEY XD
+https://ranapkx.site/RANAPK33t/TVD/play.php?id=372974
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Airtel",CARTOON NETWORK
+https://ranapkx.site/RANAPK33t/TVD/play.php?id=372972
+
+#EXTINF:-1 tvg-name="DISCOVERY KIDS" group-title="Airtel",DISCOVERY KIDS
+https://ranapkx.site/RANAPK33t/TVD/play.php?id=372928
+
+#EXTINF:-1 tvg-name="DISNEY JUNIOR" group-title="Airtel",DISNEY JUNIOR
+https://ranapkx.site/RANAPK33t/TVD/play.php?id=1433165
