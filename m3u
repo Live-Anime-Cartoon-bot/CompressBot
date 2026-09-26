@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="71810" tvg-name="POGO | MULTI AUDIO" tvg-logo="71810.png" group-title="Pogo",POGO | MULTI AUDIO
+#EXTVLCOPT:http-user-agent=VLC/3.0.20(Android/15)
+https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM3IiwicCI6ImU4OWI2ZWFjZDlmOWUxYTQiLCJlIjoxNzkwNTQyMTk1ODM1LCJzIjoyMDcyMiwiaCI6IjJhMmIxNWFkMzU2NDA5YWJjZDQ2In0|user_agent VLC/3.0.20(Android/15)
+
 ══════════════════════════════════════Channel 1 ══════════════════════════════════════
 
 #EXTINF:-1 tvg-name="Wow Kidz" group-title="Channel 1",Wow Kidz
