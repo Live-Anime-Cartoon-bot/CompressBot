@@ -133,16 +133,11 @@ http://202.70.146.135:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-name="Sonic.3" group-title="Sonic",Sonic.3
 http://103.155.18.191:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-name="Nick.1" group-title="Nick",Nick.1
-http://66.102.126.10:8000/play/a01w/index.m3u8
 
-#EXTINF:-1 tvg-name="Nick.2" group-title="Nick",Nick.2
-http://66.102.126.10:8000/play/a027/index.m3u8
-
-#EXTINF:-1 tvg-name="Nick.3" group-title="Nick",Nick.3
+#EXTINF:-1 tvg-name="Nick.1" group-title="Nick",Nick.3
 http://202.70.146.135:8000/play/a0b0/index.m3u8
 
-#EXTINF:-1 tvg-name="Nick.4" group-title="Nick",Nick.4
+#EXTINF:-1 tvg-name="Nick.2" group-title="Nick",Nick.4
 http://103.155.18.191:8000/play/a0b0/index.m3u8
 
 #EXTINF:-1 tvg-name="NickJr.1" group-title="Nick Jr.",NickJr.1
