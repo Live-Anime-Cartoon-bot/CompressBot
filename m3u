@@ -140,8 +140,6 @@ http://202.70.146.135:8000/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-name="Nick.2" group-title="Nick",Nick.4
 http://103.155.18.191:8000/play/a0b0/index.m3u8
 
-#EXTINF:-1 tvg-name="NickJr.1" group-title="Nick Jr.",NickJr.1
-http://66.102.126.10:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-name="NickJr.2" group-title="Nick Jr.",NickJr.2
 http://202.70.146.135:8000/play/a02n/index.m3u8
