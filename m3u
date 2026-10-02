@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="71810" tvg-name="POGO.MULTI.AUDIO" tvg-logo="71810.png" group-title="Pogo"
-#EXTVLCOPT:http-user-agent=VLC/3.0.20(Android/15)
-https://playlistgen-rkdyiptv.pages.dev/api/rkdyiptv/playlist.m3u?action=stream&d=eyJpIjoiNDc1MTM3IiwicCI6ImU4OWI2ZWFjZDlmOWUxYTQiLCJlIjoxNzkwNTQyMTk1ODM1LCJzIjoyMDcyMiwiaCI6IjJhMmIxNWFkMzU2NDA5YWJjZDQ2In0|user_agent VLC/3.0.20(Android/15)
+#EXTINF:-1 tvg-id="250" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR4kTu2ZcoqJNX-gCxhFtnnt3nqmO24e_1bEWJeoPCIamQHs1vZmJ87F8&s=10" group-title="Pogo",POGO.SD
+https://ditto2.amitbala1993.workers.dev/?id=250
 
 ══════════════════════════════════════Channel 1 ══════════════════════════════════════
 
