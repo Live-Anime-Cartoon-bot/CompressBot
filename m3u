@@ -1,9 +1,9 @@
 #EXTM3U
 
+══════════════════════Channel 1 ══════════════════════════════════════
+
 #EXTINF:-1 tvg-id="250" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR4kTu2ZcoqJNX-gCxhFtnnt3nqmO24e_1bEWJeoPCIamQHs1vZmJ87F8&s=10" group-title="Pogo",POGO.SD
 https://ditto2.amitbala1993.workers.dev/?id=250
-
-══════════════════════════════════════Channel 1 ══════════════════════════════════════
 
 #EXTINF:-1 tvg-name="Wow Kidz" group-title="Channel 1",Wow Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
