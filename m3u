@@ -2,6 +2,9 @@
 
 ══════════════════════Channel 1 ══════════════════════════════════════
 
+#EXTINF:-1 tvg-id="in_pogo.in" tvg-name="POGO KIDS" tvg-logo="" tvg-chno="978" group-title="Uncategorised",POGO KIDS
+http://localhost/ch/973
+
 #EXTINF:-1 tvg-id="250" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR4kTu2ZcoqJNX-gCxhFtnnt3nqmO24e_1bEWJeoPCIamQHs1vZmJ87F8&s=10" group-title="Pogo",POGO.SD
 https://ditto2.amitbala1993.workers.dev/?id=250
 
