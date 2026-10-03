@@ -97,8 +97,6 @@ http://51.75.127.199:3141/stargold/index.m3u8
 http://51.75.127.199:3141/starsports1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in@SD" group-title="JioHotstar Entertainment",Star Sports 2
 http://51.75.127.199:3141/starsports2/index.m3u8
-#EXTINF:-1 tvg-id="SuperHungama.in@SD" group-title="JioHotstar Entertainment",Super Hungama
-http://51.75.127.199:3141/superhungama/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@SD" group-title="JioHotstar Entertainment",StarPlus.1
 http://51.75.127.199:3141/starplus/index.m3u8
 #EXTINF:-1 tvg-id="StarBharat.in@SD" group-title="JioHotstar Entertainment",Star Bharat
@@ -138,3 +136,5 @@ http://51.75.127.199:3141/nickhd/index.m3u8
 http://51.75.127.199:3141/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="HungamaTV.in@SD" group-title="JioHotstar kids",Hungama TV
 http://51.75.127.199:3141/hungama/index.m3u8
+#EXTINF:-1 tvg-id="SuperHungama.in@SD" group-title="JioHotstar kids",Super Hungama
+http://51.75.127.199:3141/superhungama/index.m3u8
