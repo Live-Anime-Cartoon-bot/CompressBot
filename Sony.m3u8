@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Sony",Sony Entertainment Television SD
+https://cloudplay-sonyliv.pages.dev/set.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Entertainment Television HD
+https://cloudplay-sonyliv.pages.dev/sethd.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony SAB SD
+https://cloudplay-sonyliv.pages.dev/sab.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony SAB HD
+https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony PAL SD
+https://cloudplay-sonyliv.pages.dev/pal.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Marathi SD
+https://cloudplay-sonyliv.pages.dev/marathi.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony AATH SD
+https://cloudplay-sonyliv.pages.dev/aath.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Telugu SD
+https://cloudplay-sonyliv.pages.dev/telugu.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony VIZHA SD
+https://cloudplay-sonyliv.pages.dev/vizha.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony MAX SD
+https://cloudplay-sonyliv.pages.dev/max.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony MAX HD
+https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony MAX 1 SD
+https://cloudplay-sonyliv.pages.dev/max1.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony MAX 2 SD
+https://cloudplay-sonyliv.pages.dev/max2.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony WAH SD
+https://cloudplay-sonyliv.pages.dev/wah.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony PIX SD
+https://cloudplay-sonyliv.pages.dev/pix.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony PIX HD
+https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony YAY
+https://cloudplay-sonyliv.pages.dev/yay.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Sports TEN 1 SD
+https://cloudplay-sonyliv.pages.dev/ten1.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Sports TEN 1 HD
+https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Sports TEN 2 SD
+https://cloudplay-sonyliv.pages.dev/ten2.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Sports TEN 2 HD
+https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Sports TEN 3 SD
+https://cloudplay-sonyliv.pages.dev/ten3.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Sports TEN 3 HD
+https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Sports TEN 4 SD
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Sports TEN 4 HD
+https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Sports TEN 5 SD
+https://cloudplay-sonyliv.pages.dev/ten5.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony Sports TEN 5 HD
+https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony BBC Earth SD
+https://cloudplay-sonyliv.pages.dev/bbcearth.m3u8
+
+#EXTINF:-1 group-title="Sony",Sony BBC Earth HD
+https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8
