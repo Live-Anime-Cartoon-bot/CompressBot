@@ -131,7 +131,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Hungama_MOB/WDVLive/index.mpd
 #EXTVLCOPT:http-cookie=__hdnea__=st=1791082027~exp=1791103627~acl=/*~hmac=8ac773b46b51258086ab522f69d2c84be27a1d74c6d28bb715edfad26230d5cf
 #EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791082027~exp=1791103627~acl=/*~hmac=8ac773b46b51258086ab522f69d2c84be27a1d74c6d28bb715edfad26230d5cf"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-name="StarPlus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h.jpg" group-title="JioHotstar",StarPlus
+#EXTINF:-1 tvg-name="StarPlus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h.jpg" group-title="JioHotstar 1",StarPlus
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -149,28 +149,28 @@ https://livetv.hotstar.com/mp1/gec-india-1540057045/a73567ab8abd4680bc8206dd0c62
 #EXTVLCOPT:http-cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d"}
 https://jcevents.hotstar.com/bpk-tv/JS_ColorsCineplexSuperhit/JioHotstar/JS_ColorsCineplexSuperhit.m3u8?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTINF:-1 tvg-name="Nick" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg" group-title="JioHotstar",Nick
+#EXTINF:-1 tvg-name="Nick" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg" group-title="JioHotstar 1",Nick
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d"}
 https://jcevents.hotstar.com/bpk-tv/JS_NickSD/JioHotstar/JS_NickSD.m3u8?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg" group-title="JioHotstar",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg" group-title="JioHotstar 1",Nick Jr
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d"}
 https://jcevents.hotstar.com/bpk-tv/JS_NickJr/JioHotstar/JS_NickJr.m3u8?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTINF:-1 tvg-name="Sonic" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="JioHotstar",Sonic
+#EXTINF:-1 tvg-name="Sonic" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="JioHotstar 1",Sonic
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d"}
 https://jcevents.hotstar.com/bpk-tv/JS_SonicNick/JioHotstar/JS_SonicNick.m3u8?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTINF:-1 tvg-name="Nick Plus Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/470/1783938260470-h.jpg" group-title="JioHotstar",Nick Plus Digital
+#EXTINF:-1 tvg-name="Nick Plus Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/470/1783938260470-h.jpg" group-title="JioHotstar 1",Nick Plus Digital
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -181,7 +181,7 @@ https://jcevents.hotstar.com/bpk-tv/JS_SonicNick/JioHotstar/JS_SonicNick.m3u8?|c
 #EXTVLCOPT:http-cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d"}
 https://livetv.hotstar.com/mp1/gec-india-1540074047/22c4e4fc4e8c4a1897019c4c6ad698c2/index.mpd?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTINF:-1 tvg-name="Nick Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" group-title="JioHotstar",Nick Digital
+#EXTINF:-1 tvg-name="Nick Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" group-title="JioHotstar 1",Nick Digital
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -192,7 +192,7 @@ https://livetv.hotstar.com/mp1/gec-india-1540074047/22c4e4fc4e8c4a1897019c4c6ad6
 #EXTVLCOPT:http-cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d"}
 https://livetv.hotstar.com/mp2/gec-india-1540068253/6e383b1fb53c42d0a49ed6adfaf41082/index.mpd?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTINF:-1 tvg-name="Sonic Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" group-title="JioHotstar",Sonic Digital
+#EXTINF:-1 tvg-name="Sonic Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" group-title="JioHotstar 1",Sonic Digital
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -203,7 +203,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540068253/6e383b1fb53c42d0a49ed6adfaf4
 #EXTVLCOPT:http-cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d"}
 https://livetv.hotstar.com/mp1/gec-india-1540068791/78782613f6f54c38bf5961e9f066328a/index.mpd?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTINF:-1 tvg-name="Disney International Digital" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/FAoDDiaq0WPescE65173/image.png" group-title="JioHotstar",Disney International Digital
+#EXTINF:-1 tvg-name="Disney International Digital" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/FAoDDiaq0WPescE65173/image.png" group-title="JioHotstar 1",Disney International Digital
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -214,7 +214,7 @@ https://livetv.hotstar.com/mp1/gec-india-1540068791/78782613f6f54c38bf5961e9f066
 #EXTVLCOPT:http-cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d"}
 https://livetv.hotstar.com/mp1/gec-india-1540075056/a8fa5937ab1c4958870402ef81014cbe/index.mpd?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTINF:-1 tvg-name="Disney Junior Digital" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" group-title="JioHotstar",Disney Junior Digital
+#EXTINF:-1 tvg-name="Disney Junior Digital" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" group-title="JioHotstar 1",Disney Junior Digital
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -225,7 +225,7 @@ https://livetv.hotstar.com/mp1/gec-india-1540075056/a8fa5937ab1c4958870402ef8101
 #EXTVLCOPT:http-cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d"}
 https://livetv.hotstar.com/mp1/gec-india-1540075059/9fcb1f02cf7249ef8428b9f3c981e08c/index.mpd?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTINF:-1 tvg-name="Nick Jr Digital" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h" group-title="JioHotstar",Nick Jr Digital
+#EXTINF:-1 tvg-name="Nick Jr Digital" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h" group-title="JioHotstar 1",Nick Jr Digital
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 # KODIPROP WARNING: no ClearKey configured for this channel.
