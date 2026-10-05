@@ -1172,15 +1172,15 @@ http://51.75.127.199:3141/colorsinfinitysd/index.m3u8
 http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
 
 # JioHotstar kids
-#EXTINF:-1 tvg-id="DisneyChannel.in@SD" group-title="JioHotstar Entertainment",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" group-title="JioHotstar kids",Disney Channel
 http://51.75.127.199:3141/disneychannel/index.m3u8
-#EXTINF:-1 tvg-id="NickHDPlus.in@HD" group-title="JioHotstar Entertainment",Nick HD+
+#EXTINF:-1 tvg-id="NickHDPlus.in@HD" group-title="JioHotstar kids",Nick HD+
 http://51.75.127.199:3141/nickhd/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" group-title="JioHotstar Entertainment",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" group-title="JioHotstar kids",Disney Junior
 http://51.75.127.199:3141/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-id="HungamaTV.in@SD" group-title="JioHotstar Entertainment",Hungama TV
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" group-title="JioHotstar kids",Hungama TV
 http://51.75.127.199:3141/hungama/index.m3u8
-#EXTINF:-1 tvg-id="SuperHungama.in@SD" group-title="JioHotstar Entertainment",Super Hungama
+#EXTINF:-1 tvg-id="SuperHungama.in@SD" group-title="JioHotstar kids",Super Hungama
 http://51.75.127.199:3141/superhungama/index.m3u8
 
 
