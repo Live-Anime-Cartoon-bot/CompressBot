@@ -358,3 +358,52 @@ https://jcevents.hotstar.com/bpk-tv/JS_NickJr/JioHotstar/JS_NickJr.m3u8?|cookie=
 #EXTVLCOPT:http-cookie=hdntl=exp=1791375879~acl=%2f*~id=e5d43443950e22190a7a6778e25c9a11~data=hdntl~hmac=bdea5016156d651d3e72ce57944385a72ff5e88b26eb863ece432e1b5d102c8b
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791375879~acl=%2f*~id=e5d43443950e22190a7a6778e25c9a11~data=hdntl~hmac=bdea5016156d651d3e72ce57944385a72ff5e88b26eb863ece432e1b5d102c8b"}
 https://jcevents.hotstar.com/bpk-tv/JS_SonicNick/JioHotstar/JS_SonicNick.m3u8?|cookie=hdntl=exp=1791375879~acl=%2f*~id=e5d43443950e22190a7a6778e25c9a11~data=hdntl~hmac=bdea5016156d651d3e72ce57944385a72ff5e88b26eb863ece432e1b5d102c8b&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
+
+#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" group-title="JioHotstar Entertainment",Colors Rishtey Americas
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="JioHotstar Entertainment",StarPlus HD
+http://202.70.146.135:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@SD" group-title="JioHotstar Entertainment",Star Gold
+http://51.75.127.199:3141/stargold/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@SD" group-title="JioHotstar Entertainment",Star Sports 1
+http://51.75.127.199:3141/starsports1/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@SD" group-title="JioHotstar Entertainment",Star Sports 2
+http://51.75.127.199:3141/starsports2/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@SD" group-title="JioHotstar Entertainment",StarPlus.1
+http://51.75.127.199:3141/starplus/index.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in@SD" group-title="JioHotstar Entertainment",Star Bharat
+http://51.75.127.199:3141/starbharat/index.m3u8
+#EXTINF:-1 tvg-id="StarUtsav.in@SD" group-title="JioHotstar Entertainment",Star Utsav
+http://51.75.127.199:3141/starutsav/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" group-title="JioHotstar Entertainment",Colors Cineplex Bollywood (576p)
+http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="JioHotstar Entertainment",StarPlus HD
+http://51.75.127.199:3141/starplushd/index.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in@HD" group-title="JioHotstar Entertainment",Star Bharat HD
+http://51.75.127.199:3141/starbharathd/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in@SD" group-title="JioHotstar Entertainment",Colors
+http://51.75.127.199:3141/colorssd/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" group-title="JioHotstar Entertainment",Star Gold Select HD
+http://51.75.127.199:3141/stargoldselecthd/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="JioHotstar Entertainment",Star Movies
+http://51.75.127.199:3141/starmovieshd/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="JioHotstar Entertainment",Colors Cineplex Superhits (576p)
+http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@SD" group-title="JioHotstar Entertainment",Colors Infinity
+http://51.75.127.199:3141/colorsinfinitysd/index.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@HD" group-title="JioHotstar Entertainment",Colors Infinity HD
+http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
+
+# JioHotstar kids
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" group-title="JioHotstar kids",Disney Channel
+http://51.75.127.199:3141/disneychannel/index.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in@HD" group-title="JioHotstar kids",Nick HD+
+http://51.75.127.199:3141/nickhd/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" group-title="JioHotstar kids",Disney Junior
+http://51.75.127.199:3141/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" group-title="JioHotstar kids",Hungama TV
+http://51.75.127.199:3141/hungama/index.m3u8
+#EXTINF:-1 tvg-id="SuperHungama.in@SD" group-title="JioHotstar kids",Super Hungama
+http://51.75.127.199:3141/superhungama/index.m3u8
+
