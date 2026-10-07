@@ -1,15 +1,4 @@
 #EXTM3U url-tvg="https://avkb.short.gy/jioepg.xml.gz" tvg-url="https://avkb.short.gy/jioepg.xml.gz" refresh="3600"
-#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Jio TV+ | Kids",Pogo Hindi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791289271~exp%3D1791310871~acl%3D%2F*~hmac%3D837105ee34be4c09507d62251a0492da855b654733ab7d7662476e1b5738b208
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19984624fc15209b3cb5cf3bf99232f:baca6aa9494ed43cf02975eda742eeab
-#EXTVLCOPT:http-user-agent=Premium Plugx
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791289271~exp=1791310871~acl=/*~hmac=837105ee34be4c09507d62251a0492da855b654733ab7d7662476e1b5738b208
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791289271~exp=1791310871~acl=/*~hmac=837105ee34be4c09507d62251a0492da855b654733ab7d7662476e1b5738b208"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Hindi_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-name="STAR SPORTS 2 Hindi" tvg-logo="https://i.ibb.co/B5Mnd89k/SS2-HINDI.jpg" group-title="JioHotstar",STAR SPORTS 2 Hindi
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
@@ -394,6 +383,9 @@ http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
 http://51.75.127.199:3141/colorsinfinitysd/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in@HD" group-title="JioHotstar Entertainment",Colors Infinity HD
 http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
+
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-language="Hindi" group-title="JioHotstar Entertainment", Pogo Hindi
+http://27.116.22.53:5001/live/559.m3u8
 
 # JioHotstar kids
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" group-title="JioHotstar kids",Disney Channel
