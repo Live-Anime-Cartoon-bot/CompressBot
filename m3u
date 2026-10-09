@@ -208,8 +208,6 @@ http://103.174.195.62:8000/play/a0g3
 
 #EXTINF:-1 tvg-id="11639" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11555.png" group-title="FW",DISNEY CHANNEL FW
 https://mini.allinonereborn.site/tatatv/tata6n.php?id=11639
-#EXTINF:-1 tvg-id="641" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/558.png" group-title="JIOTV",DISCOVERY KIDS JIOTV
-https://mini.allinonereborn.site/tatatv/tata6n.php?id=641
 #EXTINF:-1 tvg-id="11646" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11562.jpg" group-title="FW",HUNGAMA FW
 https://mini.allinonereborn.site/tatatv/tata6n.php?id=11646
 #EXTINF:-1 tvg-id="11709" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11625.jpg" group-title="FW",CARTOON NETWORK FW
@@ -224,3 +222,34 @@ https://mini.allinonereborn.site/tatatv/tata6n.php?id=11666
 https://mini.allinonereborn.site/tatatv/tata6n.php?id=11667
 #EXTINF:-1 tvg-id="77032" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/74717.png" group-title="FW",SUPER HUNGAMA FW
 https://mini.allinonereborn.site/tatatv/tata6n.php?id=77032
+
+
+================================KIDS================================
+#EXTINF:-1 tvg-id="641" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/558.png" group-title="JIOTV",DISCOVERY KIDS JIOTV
+https://mini.allinonereborn.site/tatatv/tata6n.php?id=641
+#EXTINF: -1 tvg-id="ts302" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11278-j9j4h4s0-v1/imageContent-11278-j9j4h4s0-m1.png" group-title="JIOTV", Chutti TV
+http://engui.us:80/A1U3S8XPVM58B23/iHeFx423Ac/510451
+#EXTINF: -1 tvg-id="239" tvg-logo="https://tatalogo.pages.dev/239.png" group-title="JIOTV", Pogo JIOTV
+http://tv.cloudcdn.me:80/live.ts?channelId=89849&uid=7133&deviceMac=00:1A:79:31:34:0E
+#EXTINF: -1 tvg-id="238" tvg-logo="https://tatalogo.pages.dev/238.png" group-title="JIOTV", Cartoon Network JIOTV
+http://tv.cloudcdn.me:80/live.ts?channelId=89828&uid=7133&deviceMac=00:1A:79:31:34:0E
+#EXTINF: -1 tvg-id="127" tvg-logo="https://tatalogo.pages.dev/127.png" group-title="JIOTV", Sonic JIOTV
+http://tv.cloudcdn.me:80/live.ts?channelId=89864&uid=7133&deviceMac=00:1A:79:31:34:0E
+#EXTINF: -1 tvg-id="138" tvg-logo="https://tatalogo.pages.dev/138.png" group-title="JIOTV", Nick JIOTV
+http://tv.cloudcdn.me:80/live.ts?channelId=89850&uid=7133&deviceMac=00:1A:79:31:34:0E
+#EXTINF: -1 tvg-id="114" group-title="JIOTV" tvg-logo="https://tatalogo.pages.dev/114.png", Disney JIOTV
+http://51.75.127.199:3141/disneychannel/index.m3u8
+#EXTINF: -1 tvg-id="144" group-title="JIOTV" tvg-logo="https://tatalogo.pages.dev/144.png", Disney Junior JIOTV
+http://51.75.127.199:3141/disneyjunior/index.m3u8
+#EXTINF: -1 tvg-id="119" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="JIOTV", Discovery Kids JIOTV
+http://tv.cloudcdn.me:80/live.ts?channelId=89865&uid=7133&deviceMac=00:1A:79:31:34:0E
+#EXTINF: -1 tvg-id="45" tvg-logo="https://tatalogo.pages.dev/45.png" group-title="JIOTV", Sony YAY! JIOTV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:EE:CB&stream=908587&extension=ts
+#EXTINF: -1 tvg-id="1066" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="JIOTV", Disney Channel HD
+http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
+#EXTINF: -1 tvg-id="433" tvg-logo="https://tatalogo.pages.dev/433.png" group-title="JIOTV", Nick HD+
+http://engui.us:80/A1U3S8XPVM58B23/iHeFx423Ac/510421
+#EXTINF: -1 tvg-id="681" tvg-logo="https://tatalogo.pages.dev/681.png" group-title="JIOTV", Cartoon Network HD+
+http://tv.cloudcdn.me:80/live.ts?channelId=89875&uid=7133&deviceMac=00:1A:79:31:34:0E
+#EXTINF: -1 tvg-id="Animax" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png" group-title="Kids" , Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
