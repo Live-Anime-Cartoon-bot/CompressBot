@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" group-title="Kids",Discovery Kids Hindi
+http://27.116.22.53:5001/live/554.m3u8
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo Hindi
+http://27.116.22.53:5001/live/559.m3u8
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHindi.png" group-title="Kids",Cartoon Network Hindi
+http://27.116.22.53:5001/live/816.m3u8
+#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" group-title="Kids",Epic Kids
+http://27.116.22.53:5001/live/3385.m3u8
+#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDHindi.png" group-title="Kids",Cartoon Network HD+ Hindi
+http://27.116.22.53:5001/live/3436.m3u8
+#EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png" group-title="Kids",Green Gold TV
+https://supflm.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
