@@ -1,22 +1,16 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="11639" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11555.png" group-title="FW",DISNEY CHANNEL FW
-https://mini.allinonereborn.site/tatatv/tata6n.php?id=11639
-#EXTINF:-1 tvg-id="641" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/558.png" group-title="JIOTV",DISCOVERY KIDS JIOTV
-https://mini.allinonereborn.site/tatatv/tata6n.php?id=641
-#EXTINF:-1 tvg-id="11646" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11562.jpg" group-title="FW",HUNGAMA FW
-https://mini.allinonereborn.site/tatatv/tata6n.php?id=11646
-#EXTINF:-1 tvg-id="11709" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11625.jpg" group-title="FW",CARTOON NETWORK FW
-https://mini.allinonereborn.site/tatatv/tata6n.php?id=11709
-#EXTINF:-1 tvg-id="11633" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11549.png" group-title="FW",CARTOON NETWORK FW
-https://mini.allinonereborn.site/tatatv/tata6n.php?id=11633
-#EXTINF:-1 tvg-id="11640" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11556.jpg" group-title="FW",DISNEY JUNIOR FW
-https://mini.allinonereborn.site/tatatv/tata6n.php?id=11640
-#EXTINF:-1 tvg-id="11666" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11582.png" group-title="FW",POGO FW
-https://mini.allinonereborn.site/tatatv/tata6n.php?id=11666
-#EXTINF:-1 tvg-id="11667" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11583.png" group-title="JIOTV",SONIC JIOTV
-https://mini.allinonereborn.site/tatatv/tata6n.php?id=11667
-#EXTINF:-1 tvg-id="77032" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/74717.png" group-title="FW",SUPER HUNGAMA FW
-https://mini.allinonereborn.site/tatatv/tata6n.php?id=77032
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" group-title="Kids",Discovery Kids Hindi
+http://27.116.22.53:5001/live/554.m3u8
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo Hindi
+http://27.116.22.53:5001/live/559.m3u8
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHindi.png" group-title="Kids",Cartoon Network Hindi
+http://27.116.22.53:5001/live/816.m3u8
+#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" group-title="Kids",Epic Kids
+http://27.116.22.53:5001/live/3385.m3u8
+#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDHindi.png" group-title="Kids",Cartoon Network HD+ Hindi
+http://27.116.22.53:5001/live/3436.m3u8
+#EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png" group-title="Kids",Green Gold TV
+https://supflm.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
 
 JioHotstar
 
