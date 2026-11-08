@@ -224,5 +224,4 @@ http://223.25.71.211:5001/live/key/3537
 #EXTINF:-1 tvg-id="11666" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11582.png" group-title="720p",POGO1.1080p
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="http://223.25.71.211:5001/jtvimage/DiscoveryKidsHin1.png" tvg-language="hindi" group-title="720p",DiscoveryKids.1080p
-#EXTGRP:Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
