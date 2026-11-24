@@ -1,5 +1,5 @@
 #EXTM3U
-══════════════════════Channel 1 ════════════════════════════════════════
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬Channel 1▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 #EXTINF:-1 tvg-name="Wow Kidz" group-title="Channel 1",Wow Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-name="MINIX" group-title="Channel 1",MINIX
@@ -16,7 +16,7 @@ http://datahub11.com:8080/live/1Aoen7elp5/IgMJ60tmAa/467679.ts
 http://datahub11.com:8080/live/1Aoen7elp5/IgMJ60tmAa/355286.ts
 #EXTINF:-1 tvg-name="Disney Channel HD" group-title="Channel 1",Disney Channel HD
 http://datahub11.com:8080/live/9480808/9480808/19741.ts 
-══════════════════════Sun Direct══════════════════════════════════════════
+▬▬▬▬▬▬▬▬▬▬▬▬Sun Direct▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 #EXTINF:-1 tvg-id="HosannaTV.in@Tamil" group-title="Sun direct",Hungama.1080p
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTINF:-1 group-title="Sun direct",SuperHungama.1080p
@@ -82,7 +82,7 @@ https://mini.allinonereborn.site/tatatv/tatartvnew.php?id=11640
 https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=11666
 #EXTINF:-1 tvg-id="77032" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/74717.png" group-title="FW",SUPER HUNGAMA FW
 https://mini.allinonereborn.site/tatatv/tatartvnew.php?id=77032
-================================KDS
+================================KDS▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 #EXTINF: -1 tvg-id="Animax" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png" group-title="Kids" , Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="http://223.25.71.211:5001/jtvimage/Nick_Junior.png" tvg-language="English" group-title="Kids",Nick Junior
